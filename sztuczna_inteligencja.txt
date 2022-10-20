@@ -1,0 +1,9 @@
+scatterplot kod gscatter(x
+
+,y,labels,'grb','sod')
+f - figure
+gscateer(meas(:,1), meas(:,2, species, 'rgb', 'osd');
+x
+
+w pętli zmieniać nazwy maxnumsplits i splitCriterion
+
